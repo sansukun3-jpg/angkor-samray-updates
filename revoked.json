@@ -1,8 +1,5 @@
 {
   "note": "Angkor Samray: turned-off license keys (hashes only). Keep this file in the root of the updates repository.",
-  "updated": "2026-11-27T06:12:40.724Z",
-  "revoked": [
-    "82dc9ddc93ee1b98080e",
-    "5d31af704371fd30b256"
-  ]
+  "updated": "2026-11-27T06:21:18.068Z",
+  "revoked": []
 }
